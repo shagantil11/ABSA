@@ -1,0 +1,18 @@
+url=http://www.way2automation.com/angularjs-protractor/webtables/
+
+browser=chrome
+Browser=Firefox
+
+Java Expections
+1. file not found expection
+2.IOE expection
+3.Interrupted expection
+4. No such filed expection
+5. No such element expction
+
+Selenium Expection
+1.Element not visable expection
+2.Time out expection
+3.Element not selectable expection
+4.No such type of the element
+5.
